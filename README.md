@@ -23,8 +23,8 @@ Market Scraper es una herramienta automatizada que recorre categorías de produc
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <url-de-tu-repositorio>
-cd market-scraper
+git clone https://github.com/ble-bot/price-tracker-scraper-v1.git
+cd price-tracker-scraper-v1
 ```
 
 ### 2. Instalar dependencias
