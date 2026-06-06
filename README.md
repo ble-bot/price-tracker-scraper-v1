@@ -55,4 +55,4 @@ market_scraper/
 ```
 
 ---
-Desarrollado como proyecto de portafolio para demostrar habilidades en Python, Web Scraping y Modelado de Datos.
+> Desarrollado como proyecto de portafolio para demostrar habilidades en Python, Web Scraping y Modelado de Datos.
